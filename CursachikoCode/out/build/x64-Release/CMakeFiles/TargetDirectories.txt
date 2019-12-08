@@ -1,0 +1,3 @@
+D:/University/5 sem/Cursachiko/CursachikoCode/out/build/x64-Release/CMakeFiles/CursachikoCode.dir
+D:/University/5 sem/Cursachiko/CursachikoCode/out/build/x64-Release/CMakeFiles/edit_cache.dir
+D:/University/5 sem/Cursachiko/CursachikoCode/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
