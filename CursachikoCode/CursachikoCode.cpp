@@ -225,12 +225,14 @@ void polynomial_multiplication(const vector<int>& a, const std::vector<int>& b, 
 	}
 }
 
-// NOTES
+//					NOTES
+// _______________________________________________
 // for our pc cache size is 6 MB
 // GPU is 256 MB
 // => dataset sizes are (cause we use int arrays):
 // + cache:  max 1572864 / 2 for each vector
 // + GPU:  max 67108864 / 2 for each vector
+
 
 int main() {
 
